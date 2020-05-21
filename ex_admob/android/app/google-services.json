@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040328173483",
+    "firebase_url": "https://exadmob.firebaseio.com",
+    "project_id": "exadmob",
+    "storage_bucket": "exadmob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040328173483:android:943086c95906feab8814ee",
+        "android_client_info": {
+          "package_name": "com.example.exadmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040328173483-3blmtot4t5avrlcmn8k2tltg8ok0cofs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw8YP2gKNf94T7KzB9Q0P23ac0jBeVJEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040328173483-3blmtot4t5avrlcmn8k2tltg8ok0cofs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
