@@ -220,23 +220,6 @@ class _MyHomePageState extends State<MyHomePage> {
                         ),
                       ],
                     ),
-//                    Container(
-//                      height: screen_height * 0.1,
-//                      width: screen_width * 1,
-//                      child: Slider(
-//                        activeColor: Colors.black,
-//                        inactiveColor: Colors.pink,
-//                        value: _position.inSeconds.toDouble(),
-//                        min: 0.0,
-//                        max: _duration.inSeconds.toDouble(),
-//                        onChanged: (double value) {
-//                          setState(() {
-//                            seekToSecond(value.toInt());
-//                            value = value;
-//                          });
-//                        },
-//                      ),
-//                    ),
                   ],
                 ),
               ],
